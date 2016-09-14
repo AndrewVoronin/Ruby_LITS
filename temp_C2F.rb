@@ -17,5 +17,4 @@ if temp !~/-?\d+/
 		print "#{c} градусов C/n"
 	else
 		print "#{f} градусов F/n"
-	end
-end
+  end
